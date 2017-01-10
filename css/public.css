@@ -1,0 +1,13 @@
+*{
+	margin:0 auto;
+	padding: 0;
+	list-style-type:none;
+	text-decoration: none;
+	font-family: 微软雅黑;
+
+}
+
+#frameTop{background: rgb(102,155,50)}
+
+
+#Vice-frameTop{box-shadow:2px 4px 8px 0px  #333}
